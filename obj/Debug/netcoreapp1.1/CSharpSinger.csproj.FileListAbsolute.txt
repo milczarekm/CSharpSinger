@@ -1,0 +1,9 @@
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\bin\Debug\netcoreapp1.1\CSharpSinger.deps.json
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\bin\Debug\netcoreapp1.1\CSharpSinger.runtimeconfig.json
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\bin\Debug\netcoreapp1.1\CSharpSinger.runtimeconfig.dev.json
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\bin\Debug\netcoreapp1.1\CSharpSinger.dll
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\bin\Debug\netcoreapp1.1\CSharpSinger.pdb
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\obj\Debug\netcoreapp1.1\CSharpSinger.csproj.CoreCompileInputs.cache
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\obj\Debug\netcoreapp1.1\CSharpSinger.AssemblyInfo.cs
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\obj\Debug\netcoreapp1.1\CSharpSinger.dll
+C:\Users\pipczar\source\repos\WatchUsBuild-CSharpSinger-master\CSharpSinger\obj\Debug\netcoreapp1.1\CSharpSinger.pdb
